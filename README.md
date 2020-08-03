@@ -1,2 +1,2 @@
 # demo-github-actions
-Github actions for Looker demo repositories
+Two Github actions to be deployed on repositories for Looker demos
